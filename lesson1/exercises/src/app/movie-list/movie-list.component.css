@@ -1,0 +1,11 @@
+.movies {
+  color: gray;
+}
+
+.movies h3 {
+  text-align: center;
+}
+
+.movies ol li {
+  font-size: 20px;
+}
